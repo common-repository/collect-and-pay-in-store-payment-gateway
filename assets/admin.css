@@ -1,0 +1,341 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700%7CPT+Sans+Caption:400,700');
+.bzn-money-amount {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 100px;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+    border-top: 2px solid #eee;
+    border-bottom: 2px solid #eee;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'PT Sans', sans-serif;
+    background-color: transparent;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bzn-money-amount:focus,
+.bzn-money-amount:not(:placeholder-shown) {
+    outline: none;
+}
+
+.bzn-money-amount:focus,
+.bzn-money-amount:hover {
+    background-color: #f9f9f9;
+}
+
+.bzn-money-amount:invalid {
+    border-color: #f44336;
+    background-color: #ffdde0;
+}
+
+.bzn-instructions {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 14px;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.bzn-instructions:focus {
+  outline: none;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+  
+
+.papaki-bzn-style .widefat.wc_input_table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .papaki-bzn-style .widefat.wc_input_table th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .papaki-bzn-style .widefat.wc_input_table th:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .papaki-bzn-style .widefat.wc_input_table td {
+    border-top: 1px solid #ddd;
+    padding: 10px 15px;
+  }
+  
+  .papaki-bzn-style .widefat.wc_input_table td:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .papaki-bzn-style .widefat.wc_input_table input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  .bzn-new {
+    display: flex;
+    justify-content: center;
+  }
+  .bzn-form-payin {
+    font-family: 'PT Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .bzn-form-payin form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .bzn-form-payin input[type="text"] {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    border-top: 2px solid #eee;
+    border-bottom: 2px solid #eee;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'PT Sans', sans-serif;
+    background-color: transparent;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bzn-form-payin input[type="text"]:focus,
+  .bzn-form-payin input[type="text"]:not(:placeholder-shown) {
+    outline: none;
+  }
+  
+  .bzn-form-payin input[type="text"]:focus,
+  .bzn-form-payin input[type="text"]:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .bzn-form-payin input[type="text"]:invalid {
+    border-color: #f44336;
+    background-color: #ffdde0;
+  }
+  
+  .bzn-form-payin table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-top: 20px;
+  }
+  
+  .bzn-form-payin th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .bzn-form-payin th:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .bzn-form-payin td {
+    border-top: 1px solid #ddd;
+    padding: 10px 15px;
+  }
+  
+  .bzn-form-payin td:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .bzn-form-payin input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .bzn-dash-pay-instore {
+      /* Apply the fonts to the HTML elements */
+      font-family: 'PT Sans', sans-serif;
+  }
+
+  .bzn-dash-pay-instore h1,
+  .bzn-dash-pay-instore h2,
+  .bzn-dash-pay-instore h3,
+  .bzn-dash-pay-instore h4,
+  .bzn-dash-pay-instore h5,
+  .bzn-dash-pay-instore h6 {
+      font-family: 'PT Sans Caption', sans-serif;
+  }
+
+  /* Style the plugin dashboard container */
+  .bzn-dash-pay-instore {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+
+  /* Style the heading and paragraph */
+  .bzn-dash-pay-instore h1 {
+      font-size: 2rem;
+      margin-bottom: 10px;
+      color: #397e80;
+  }
+
+  .bzn-dash-pay-instore p {
+      font-size: 1.1rem;
+      margin-bottom: 20px;
+  }
+
+  /* Box container */
+  .bzn-dash-pay-instore .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+  }
+
+  /* Box */
+  .bzn-dash-pay-instore .box {
+      width: 250px;
+      height: 350px;
+      margin: 20px;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+  }
+
+  /* Icon */
+  .bzn-dash-pay-instore .icon {
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      line-height: 50px;
+      text-align: center;
+      transition: all 0.3s ease;
+  }
+
+  .bzn-dash-pay-instore .icon:hover {
+      transform: scale(1.1) rotate(360deg);
+  }
+
+  /* Heading */
+  .bzn-dash-pay-instore .box h3 {
+      font-size: 1.5rem;
+      margin-top: 20px;
+      margin-bottom: 10px;
+  }
+
+  /* Paragraph */
+  .bzn-dash-pay-instore .box p {
+      font-size: 1.2rem;
+      margin: 0;
+  }
+
+  .bzn-dash-pay-instore a {
+      position: relative;
+      display: inline-block;
+      color: #397e80;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: color 0.3s, border-bottom-color 0.3s, transform 0.3s;
+      border-bottom: 2px solid transparent;
+  }
+
+  .bzn-dash-pay-instore a:before {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background-color: #397e80;
+      visibility: hidden;
+      transform: scaleX(0);
+      transition: all 0.3s ease-in-out 0s;
+  }
+
+  .bzn-dash-pay-instore a:hover:before,
+  .bzn-dash-pay-instore a:focus:before {
+      visibility: visible;
+      transform: scaleX(1);
+  }
+
+  .bzn-dash-pay-instore a:hover,
+  .bzn-dash-pay-instore a:focus {
+      color: #397e80;
+      border-bottom-color: black;
+      transform: translateY(-2px);
+      outline: none;
+  }
+  .bzn-dash-pay-instore .code-snippet {
+background-color: #f5f5f5;
+border-radius: 4px;
+font-family: "Courier New", Courier, monospace;
+font-size: 1.1rem;
+line-height: 1.4;
+padding: 10px;
+white-space: pre-wrap;
+}
+.bzn-form-pay-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .bzn-form-pay-button .button-primary {
+    background-color: #397e80;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .bzn-form-pay-button .button-primary:hover {
+    background-color: #306c6f;
+  }
+  
+  .bzn-form-pay-button .button-primary:active,
+  .bzn-form-pay-button .button-primary:focus {
+    outline: none;
+    background-color: #285e61;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  

@@ -1,0 +1,510 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Collect and Pay in Store - Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-30 14:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: pay-in-store"
+
+#: includes/template-pay-in-store-welcome.php:39
+msgid "[order_processing_time] "
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:39
+msgid "[store_maps_location]"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:39
+msgid "[store_opening_hours]"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:144
+msgid "Accept Virtual Orders"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:320
+msgid "Awaiting Collect and Pay in Store payment"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:53
+msgid "Buy me a beer"
+msgstr ""
+
+#. Author of the plugin
+msgid "bzn.gr"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:97
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:10
+#: includes/class-wc-gateway-pay-in-store.php:68
+msgid "Collect and Pay in Store"
+msgstr ""
+
+#. Name of the plugin
+msgid "Collect and Pay in Store - Payment Gateway"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:52
+msgid "Contact Us"
+msgstr ""
+
+#: includes/template-pay-in-store-schedule.php:15
+msgid "Day"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:178
+msgid "Default"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:73
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:81
+msgid "Description Image URL"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:87
+msgid "Email Heading"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:95
+msgid "Email type"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:58
+#: includes/class-wc-gateway-pay-in-store.php:59
+msgid "Enable Collect and Pay in Store"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:96
+msgid "Enable for shipping methods"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:168
+msgid "Enable Google Maps URL"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:75
+msgid "Enable this email notification"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:73
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:169
+msgid ""
+"Enabling a Google Maps URL can provide customers with an easy and convenient "
+"way to locate the pickup location. This can be accomplished by generating a "
+"shareable link to the business location on Google Maps and including it on "
+"the website or checkout page. This can be especially useful for customers "
+"who may be unfamiliar with the area or who are using a mobile device for "
+"navigation. By including a Google Maps URL, customers can quickly and easily "
+"access directions and get to the pickup location with minimal hassle."
+msgstr ""
+
+#: includes/class-pay-in-store-dash.php:47
+msgid "Find Store in Google Maps"
+msgstr ""
+
+#: pay-in-store.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:96
+msgid "Google Message"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:11
+msgid ""
+"Here's where you can manage all the settings and features of your plugin."
+msgstr ""
+
+#: templates/emails/customer-ready-to-collect.php:20
+#: templates/emails/plain/customer-ready-to-collect.php:18
+msgid "Hi there,"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:16
+#: includes/template-pay-in-store-welcome.php:44
+msgid "Home"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://bzn.gr"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://bzn.gr/pay-in-store"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:145
+msgid ""
+"If the order is virtual and no physical items are being shipped, it may not "
+"be practical to offer the Collect and Pay in Store payment method. However, "
+"if the business is willing and able to accommodate this payment method for "
+"virtual orders, it can be enabled in the payment settings. It is important "
+"to clearly communicate to customers that they will need to arrange for "
+"pickup and payment in store if they choose this option for virtual orders. "
+"Additionally, it may be necessary to establish specific guidelines or "
+"restrictions around the use of this payment method for virtual orders to "
+"ensure a smooth and secure transaction process."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:88
+msgid "Instructions"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:21
+msgid ""
+"It is possible to configure Pay in Store within the WooCommerce Payments "
+"feature. Within this module, all requisite fields can be found."
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:103
+msgid "Location Message"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:107
+msgid "Maximum Amount"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:75
+msgid "Maximum Amount Message"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:126
+msgid "Minimum Amount"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:68
+msgid "Minimum Amount Message"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:26
+msgid "Modify Email Template"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:75
+msgid ""
+"On the website, customers will be able to view the available payment methods "
+"during the checkout process. This may include a description such as \"Cash "
+"on Pickup\" or \"Pay in-store upon Pickup\" for those who prefer to make "
+"their payment in person at the time of picking up their items. By providing "
+"clear and detailed descriptions of the available payment options, customers "
+"can choose the method that works best for them and complete their purchase "
+"with confidence."
+msgstr ""
+
+#: includes/template-pay-in-store-schedule.php:16
+msgid "Open"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:89
+msgid "Open Hours Message"
+msgstr ""
+
+#: includes/template-pay-in-store-schedule.php:17
+msgid "Opening Hours"
+msgstr ""
+
+#: core.php:75 core.php:115
+msgid "Order Collected from Store"
+msgstr ""
+
+#: core.php:120
+#, php-format
+msgid "Order Collected from Store <span class=\"count\">(%s)</span>"
+msgid_plural "Order Collected from Store <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core.php:74
+msgid "Order is ready to collect"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:150
+#: includes/class-pay-in-store-dash.php:35
+msgid "Order Processing Time"
+msgstr ""
+
+#: core.php:52
+msgctxt "Order status"
+msgid "Order Collected from Store"
+msgstr ""
+
+#: core.php:51
+msgctxt "Order status"
+msgid "Ready to Collect"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:76
+#: includes/class-wc-gateway-pay-in-store.php:91
+msgid "Pay with cash or card upon pickup from store."
+msgstr ""
+
+#: templates/emails/plain/customer-ready-to-collect.php:35
+msgid ""
+"Please proceed to our store to collect and pay for your order. Don't forget "
+"to bring your order number with you for a smoother pickup experience."
+msgstr ""
+
+#: templates/emails/customer-ready-to-collect.php:33
+msgid ""
+"Please proceed to our store to collect and pay for your order. Don't forget "
+"to bring your order number."
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:82
+msgid "Processing Message"
+msgstr ""
+
+#: core.php:107 includes/class-wc-email-customer-ready-to-collect.php:14
+msgid "Ready to Collect"
+msgstr ""
+
+#: core.php:112
+#, php-format
+msgid "Ready to Collect <span class=\"count\">(%s)</span>"
+msgid_plural "Ready to Collect <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core.php:64 includes/class-wc-gateway-pay-in-store.php:447
+msgid "Send Ready to Collect Email"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:18
+msgid "Set Up"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:24
+msgid "Set Up Payment"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:33
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:128
+msgid ""
+"Similar to the maximum amount, the minimum amount that can be paid in store "
+"will depend on the specific businesss policies and preferences. However, it "
+"is important to ensure that the minimum amount is set at a reasonable level "
+"that aligns with the cost of goods sold and the costs associated with "
+"handling the transaction. If the minimum amount is too low, it may not be "
+"practical or cost-effective for the business to offer the Collect and Pay in "
+"Store payment method. Ultimately, the minimum amount should be set based on "
+"a careful analysis of the businesss financial and operational requirements."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:161
+msgid "Store Address"
+msgstr ""
+
+#: includes/class-pay-in-store-dash.php:41
+msgid "Store Opening Hours"
+msgstr ""
+
+#: includes/template-pay-in-store-schedule.php:8
+#: includes/class-wc-gateway-pay-in-store.php:157
+msgid "Store Schedule"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:79
+msgid "Subject"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:46
+msgid "Support"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:184
+msgid "Thank You Page"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:36
+msgid ""
+"The Collect and Pay in Store Payment Gateway includes three shortcodes that "
+"can be utilized for customization"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Collect and Pay in Store plugin enables customers to pay for online "
+"orders in person at a physical store. It adds a payment method for those who "
+"prefer to pay upon pickup, with the ability to set payment limits and order "
+"processing times. Customers receive a notification email when their order is "
+"ready for pickup."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:11
+msgid ""
+"The feature enables customers to make payments, either in cash or through "
+"other acceptable means, upon picking up their purchased items in-store. This "
+"provides convenience and flexibility for both the customers and the business,"
+" allowing for a smoother transaction process."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:109
+msgid ""
+"The maximum amount that can be paid in store will depend on the specific "
+"businesss policies and preferences. However, it is important to consider the "
+"practicality of handling cash transactions and ensure that the maximum "
+"amount is set at a reasonable level to avoid potential issues with cash "
+"handling and security. Additionally, any applicable laws and regulations "
+"should be taken into account when determining the maximum amount that can be "
+"paid in store."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:152
+msgid ""
+"The order processing time will depend on the specific business operational "
+"capabilities and the volume of orders being received. To provide customers "
+"with accurate information and set clear expectations, the order processing "
+"time should be communicated clearly on the website or checkout page. This "
+"may include a range of hours or days, such as \"24-48 hours\" or \"3-5 "
+"business days,\" depending on the business processing timeframes. It is "
+"important to ensure that the order processing time is reasonable and "
+"achievable to avoid potential delays or customer dissatisfaction."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:302
+msgid ""
+"The order total exceeds the maximum amount for Collect and Pay in Store "
+"payment."
+msgstr ""
+
+#: includes/class-pay-in-store-dash.php:29
+#, php-format
+msgid ""
+"The order total exceeds the maximum amount for Pay in Store payment. Please "
+"ensure your order does not exceed %s."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:313
+msgid ""
+"The order total falls below the minimum amount for Collect and Pay in Store "
+"payment."
+msgstr ""
+
+#: includes/class-pay-in-store-dash.php:23
+#, php-format
+msgid ""
+"The order total falls below the minimum amount for Pay in Store payment. "
+"Please ensure your order meets the minimum of %s."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:163
+msgid ""
+"The store address where customers can pick up their orders should be clearly "
+"communicated to customers to ensure a smooth and efficient pickup process. "
+"This may include the street address, city, and zip code, such as \"123 Main "
+"Street, Anytown, USA 12345.\" Alternatively, if the business has a prominent "
+"or well-known location, the address may be shortened to just the street name "
+"and city for simplicity. In some cases, it may also be helpful to provide "
+"additional information, such as parking instructions or landmarks to assist "
+"customers in finding the pickup location. If preferred, GPS coordinates can "
+"also be provided, such as \"40.748817,-73.985428.\""
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:82
+msgid ""
+"This controls the email subject line. Leave blank to use the default subject:"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:90
+msgid ""
+"This controls the main heading included in the email notification. Leave "
+"blank to use the default heading:"
+msgstr ""
+
+#: includes/class-wc-email-customer-ready-to-collect.php:15
+msgid ""
+"This is an order notification sent to customers when their order is ready to "
+"collect."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:65
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:101
+msgid ""
+"To restrict the Collect and Pay in Store payment method to certain shipping "
+"methods, this can be configured within the payment settings. This allows for "
+"greater flexibility in payment options based on the specific shipping method "
+"selected by the customer. By setting this up, customers will only see the "
+"Collect and Pay in Store payment method as an option if they have selected a "
+"qualifying shipping method. If this feature is not required, it can be left "
+"blank to enable the payment method for all shipping methods.                "
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:67
+msgid ""
+"Upon checkout, customers will see the available payment methods for their "
+"purchases. This may include options such as \"Cash on Pickup\" or \"Pay in-"
+"store upon Pickup\" for those who prefer to pay in cash or through other "
+"acceptable means at the time of picking up their items. By providing clear "
+"and concise descriptions of available payment options, customers can make "
+"informed decisions and have a hassle-free checkout experience.."
+msgstr ""
+
+#: includes/class-wc-gateway-pay-in-store.php:90
+msgid ""
+"Upon completing their purchase, customers will be directed to a thank you "
+"page. Instructions can be added to this page to provide customers with any "
+"necessary information regarding their order and the next steps they should "
+"take. These instructions may include details on when and where to pick up "
+"their items, any additional documentation required, or contact information "
+"for customer support. By providing clear and concise instructions on the "
+"thank you page, customers can have a positive post-purchase experience and "
+"feel confident in their decision to shop with your business.                "
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:51
+msgid "Visit our Website"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:49
+msgid ""
+"We are here to help you thrive! Let us know if you have any problems or any "
+"extra feature you would like to see."
+msgstr ""
+
+#: templates/emails/customer-ready-to-collect.php:35
+#: templates/emails/plain/customer-ready-to-collect.php:39
+msgid "We look forward to seeing you soon!"
+msgstr ""
+
+#: includes/template-pay-in-store-welcome.php:8
+msgid "Welcome to Collect and Pay in Store - Payment Gateway"
+msgstr ""
+
+#: includes/class-pay-in-store-dash.php:53
+msgid "You can pick your order from this location"
+msgstr ""
+
+#: templates/emails/customer-ready-to-collect.php:21
+msgid "Your recent order is now ready for pickup! Here are the details:"
+msgstr ""
+
+#: templates/emails/plain/customer-ready-to-collect.php:20
+msgid ""
+"Your recent order on {site_title} is now ready for pickup! Here are the "
+"details:"
+msgstr ""
